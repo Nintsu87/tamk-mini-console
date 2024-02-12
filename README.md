@@ -22,7 +22,8 @@ React to X position on the LCD screen. If X in middle, click middle button, if r
 ### Sakari-game: 
 Put the sweater on Sakari before 10 seconds timer runs out. Light sensor reads the sweater light blocking. Cannot be used in dark room.
 
-Minute-game: press the button one minute. Closer the time, bigger points.  
+### Minute-game: 
+Press the button one minute. Closer the time is to one minute, bigger points you get.  
 
 
 
