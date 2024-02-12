@@ -11,7 +11,7 @@ Our plan was to get max points, 5, from this project which meant:
 
 We used EEPROM, T/C1 sand ADconv with registers and TWI. Interrupts were with basic button interrupt and timer overflow interrupt. There is more detailed information about used parts in the report. Four row LCD-screen is attached to Arduino with I2C adapter.
 
-My task was to create Spede-game, interrupts and register controls for T/c1 and ADC. Leo created part of the UI, register controls for switches, connect switches to Arduino and Minute-game. Aleksi’s task was to create the sweater, Sakari-game and connect the light sensor.
+My task was to create Spede-game, interrupts and register controls for T/c1 and ADC. Leo created part of the UI, register controls for switches, connect switches to Arduino and Minute-game. Aleksi’s tasks were to create the sweater, Sakari-game and connect the light sensor.
 
 ### Menu: 
 Move up with yellow button (D9) and move down with white button (D11) and select with red one (D3). 
