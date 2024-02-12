@@ -1,4 +1,4 @@
-# Programming of Embedded System and Microcontrollers main project
+# Programming of Embedded System and Microcontrollers - main project
 
 Group task by me (Nina), Leo and Aleksi. I explain a little bit in English, as the course was in Finnish, and so was the report.
 
